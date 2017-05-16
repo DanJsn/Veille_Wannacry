@@ -2,7 +2,7 @@
 
 Le 12 et 13 mai, plus de 300 000 ordinateurs dans 150 pays ont été infectés par un Virus de type Ransomware.
 Parmis ces ordinateurs, se trouvent des entreprises, des grandes administrations, des industries ou tout simplement des particuliers.
-![Map](img/MapRan.jpg)
+![Map](/img/MapRan.jpg)
 
 # Que ce qu'un Ransomware?
 
@@ -10,7 +10,7 @@ Un Ransomware est un logiciel de rançon. Il crypte tout le contenu de l'ordinat
 Il y a toute de meme une solution pour récuperer ses fichiers, payer le "ravisseur" avec des bitcoins(300-600€).
 Le ravisseur nous transmet alors un mot de passe qui nous permet de recuperer les fichiers.
 Ce genre de pratique est courante mais celui de la cyber attaque du 12 à 13 mai a une caractéristique: sa vitesse de diffusion.
-![Explication](img/ExplicationRan.jpg)
+![Explication](/img/ExplicationRan.jpg)
 
 # Comment ce virus a pu autant se propager?
 
