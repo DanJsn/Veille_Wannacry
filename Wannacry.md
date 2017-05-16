@@ -45,7 +45,7 @@ La faille utilisé par Wannacry à été initialement découvert par la NASA. Pe
 ## Communication
 
   Brad Smith, président de Microsoft:
-  "Un scenario équivalent dans le monde convetionnel serait que l'armée se fasse voler quelques missiles de croisière Tomahawk." Car une fait dans l'informatique est une arme.
+  "Un scenario équivalent dans le monde convetionnel serait que l'armée se fasse voler quelques missiles de croisière Tomahawk." Car une faille dans l'informatique est une arme.
   Encore une fois, la Corée du nord est montrée du doigt. Mais cela me semble un peu facile car tout les ingrédients sont les conséquences de fautes bien occidentales.
 
 
